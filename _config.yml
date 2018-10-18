@@ -42,7 +42,7 @@ username: wdudgeon #github username
 repo: Sunrise-Ventures #github repository
 branch: master #branch
 relative_source: ../hanuman/ #source directory
-destination: ../hanuman-pages/ #destination directory
+destination: ../Sunrise-Ventures/ #destination directory
 production_url:  https://samanyougarg.com/
 source_url:  https://github.com/samanyougarg/hanuman #source repository url
 
